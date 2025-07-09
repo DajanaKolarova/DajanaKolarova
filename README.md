@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DajanaKolarova
-- 👀 I’m a biochemistry student at UCT Prague and a reasercher at IOCB CAS
-- 🌱 I’m currently switching my major to bioinformatics
+- 👀 I’m a biochemistry graduate at UCT Prague and a reasercher at IOCB CAS
+- 🌱 I’m current major in bioinformatics
 - 📫 How to reach me kolaroab@vscht.cz
 
 <!---
